@@ -19,4 +19,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get a fresh project
 
-link DEMO : https://appetize.io/app/b_yytjejwdijyxp6l74oh3qwmnvq?device=pixel7&osVersion=13.0
+link DEMO : https://appetize.io/app/b_yytjejwdijyxp6l74oh3qwmnvq
